@@ -65,7 +65,7 @@ if(!empty($_POST["login"])) {
                     <input class="btn btn-lg btn-primary btn-block btn-signin" type="submit" name="login" id="btn_sub" value="Login">
                 </form>
                 <!-- /form -->
-                <a href="/readNReview/register.php" class="forgot-password">
+                <a href="/backendRnR/register.php" class="forgot-password">
                     Register!
                 </a>
             </div>

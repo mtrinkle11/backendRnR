@@ -21,7 +21,7 @@ if(array_key_exists("submit", $_POST)){
     mysqli_query($link, $query);
 
     if(isset($_POST['submit'])){
-        header("Location: /readNReview/");
+        header("Location: /backendRnR/");
     }
     
 }
